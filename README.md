@@ -7,7 +7,8 @@ Basic cookbook to deploy a central node Qlik Sense server.
 1. Qlik-Cli downloaded and imported into Powershell modules
 2. Qlik Sense Enterprise downloaded into c:\apps folder
 3. sp_config.xml file edited to ensure the shared persistence installation is correct (stored in c:\apps)
-e.g.
+
+
 ### Platforms
 
 - Windows
